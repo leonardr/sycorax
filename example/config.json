@@ -1,0 +1,22 @@
+{
+  "start_date" : "2011/07/09",
+  "timezone" : "US/Central",
+  "chapter_duration_days" : 7,
+  "authors" : [
+      {
+        "account" : "Alice",
+        "css_class" : "alice",
+        "twitter_token" : "ALICE'S TOKEN GOES HERE",
+        "twitter_secret" : "ALICE'S SECRET GOES HERE"
+      },
+
+      {
+        "account" : "IAmBob",
+        "code" : "+",
+        "color" : "#ddaadd",
+        "css_class" : "bob",
+        "twitter_token" : "BOB'S TOKEN GOES HERE",
+        "twitter_secret" : "BOB'S SECRET GOES HERE"
+      }
+  ]
+}

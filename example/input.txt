@@ -1,0 +1,31 @@
+== Chapter 1
+
+7A I just woke up.
+
+45M Going to work now.
+
+1H I'm at work.
+
+3H What a boring day.
+
+1H Lunch!
+
+2P I'm bored.
+
++R10M You are a fictional character being used in a software demo. No wonder your life is boring.
+
+R5M I know, right? It sucks.
+
+5P Going home.
+
+90M I sure love my cat.
+
+8A Oh no, I overslept!
+
++R5M I've been up for three hours already!
+
+== Chapter 2
+
+1P I've decided never to post to Twitter again!!!!
+
+2D9A Perhaps my earlier decision was premature.
